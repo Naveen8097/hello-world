@@ -38,7 +38,7 @@
           <target>1.7</target>
         </configuration>
       </plugin>
-      <finalName> docker-img </finalName>
+      
 
                    <plugin>
                    <groupId>org.apache.maven.plugins</groupId>
